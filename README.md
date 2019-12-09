@@ -9,7 +9,3 @@ HMC5883l_getY(void) -> returns the change in Y position from restart
 HMC5883l_getZ(void) -> returns the change in Z position from restart
 
 HMC5883l_getHeadingDegrees(void) -> returns the current bearing relative to true north.
-
-
--NULL-Wolf
-  
